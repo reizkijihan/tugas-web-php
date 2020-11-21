@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+ 	}
+	body {
+		font-family: sans-serif;
+
+
+	}
+	h1{
+		color: #AB0003;
+		padding-left: 30%;
+	}
+	
+	.main {
+		display: flex;
+	}
+	.main h4 {
+	    font-size: 25px;
+	    margin-left: auto;
+    	margin-right: auto;
+    	color: #AB0003;
+	}
+	.card {
+		flex-basis: 35%; 
+		background-color: #FDFBC3;
+		padding-left: 15px;
+			}
+	.card1 {
+		flex-basis: 65%; 
+		padding-left: 10px;
+	}
+	.card1 h3 {
+		color: #AB0003;
+	}
+	img.tengah{
+		display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5%;
+
+	}
